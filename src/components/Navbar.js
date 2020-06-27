@@ -8,7 +8,7 @@ function Navbar(props) {
 
     return (
         <nav className='navbar navbar-expand-lg navbar-light' style={style}>
-            <h5>Eventsch</h5>
+            <h5>Calendar</h5>
         </nav>
     )
 }
